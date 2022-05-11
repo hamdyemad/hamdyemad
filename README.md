@@ -1,6 +1,6 @@
 ### Hi there, i'm hamdy emad 👋
 
-1: asdas
+- asdas
 
 <!--
 **hamdyemad/hamdyemad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
