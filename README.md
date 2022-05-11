@@ -6,6 +6,19 @@
 - Excelent Know at firebase
 - Encryption Algorithms Background
 
+### Skills
+- Html
+- Css
+- Javascript
+- Jquery
+- Angular
+- gulp
+- pugjs
+- php
+- mysql
+- laravel
+- animation
+
 ### Contact with me
 - Email: contact@hamdyemad.com / hamdyrazer@gmail.com
 
