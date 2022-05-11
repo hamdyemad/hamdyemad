@@ -21,8 +21,7 @@
 
 ### Contact with me
 - Email: contact@hamdyemad.com / hamdyrazer@gmail.com
-
-[https://wa.me/+201152059120]
+- Watsapp https://wa.me/+201152059120
 
 <!--
 **hamdyemad/hamdyemad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
